@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brandon Trapp, I'm a student at the College of Charleston, and I'm also a Army Veteran. 
 - 👀 I’m interested in Web Devlopment, and Software Devlopment
-- 🌱 I’m currently learning Python, and Swift 
+- 🌱 Python, Java, c, html, css, 
 - 📫 How to reach me ... my email is brandontrapp1988@gmail.com
 
 <!---
